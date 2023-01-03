@@ -1,4 +1,4 @@
-[![Github All Releases](https://img.shields.io/github/downloads/RafaelRMontano/Nutrition-Calculator/total.svg)]()
+
 
 
 # BMI & Nutrition Calculator
